@@ -1,5 +1,5 @@
 # Minizak-Text-AdventureGame
-Me and my brother Max made a game in 3 months some time ago as a project that we delivered to our teacher Roberto Navigli for an axam of computer science called "Metodologie di Programmazione" at la "Sapienza" in Rome, it was a lot of fun and also a lot of work, all the art was made by me and the code was written by both me and my brother.
+Me and my brother Max made a game in 3 months some time ago as a project that we delivered to our teacher Roberto Navigli for an axam of Computer Science called "Metodologie di Programmazione" at la "Sapienza" in Rome, it was a lot of fun and also a lot of work, all the art was made by me and the code was written by both me and my brother.
 
 The game was made starting with a text engine made completely from scratch and then was merged with javafx.
 We used java with java-fx library and worked with multiple threads to make it work one for the graphic part and one for the text engine part.
