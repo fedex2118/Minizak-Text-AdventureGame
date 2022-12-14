@@ -9,3 +9,6 @@ The game was and still is fully playable in italian language but it hasn't been 
 This repository contains some of the classes we used to make it possible and some of the images that show the actual gameplay.
 
 The code that is shown it's far from perfect but we are still proud of the work we did, accounting to the limited knowledge and time we had learning java.
+
+
+![Credits](Images/Credits.png)
