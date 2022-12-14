@@ -12,3 +12,14 @@ The code that is shown it's far from perfect but we are still proud of the work 
 
 
 ![Credits](Images/Credits.png)
+The game has a playbale tutorial to introduce the player to the controls...
+![Tutorial](Images/Tutorial.png)
+![Intro](Images/Intro.png)
+...some moments of cuteness...
+![Cuteness](Images/Cuteness.png)
+...a smith and a forge...
+![Smith](Images/Smith.png)
+...inventory system and...
+![Inventory](Images/Inventory.png)
+...well why not, a treasure!
+![Gold](Images/Gold.png)
